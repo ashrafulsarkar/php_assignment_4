@@ -22,7 +22,7 @@ In addition to the properties, the Product class should also have the following 
 
 Your task is to write the implementation of the Product class in PHP. Use the provided template code below and fill in the missing parts:
 
-
+```
 class Product {
     // TODO: Add properties
     
@@ -36,7 +36,7 @@ class Product {
 
     // TODO: Add showDetails method
 }
-
+```
 
 // Test the Product class
 $product = new Product(1, 'T-shirt', 19.99);
