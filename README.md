@@ -23,7 +23,6 @@ In addition to the properties, the Product class should also have the following 
 Your task is to write the implementation of the Product class in PHP. Use the provided template code below and fill in the missing parts:
 
 
-php
 class Product {
     // TODO: Add properties
     
